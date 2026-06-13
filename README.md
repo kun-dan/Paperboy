@@ -1,6 +1,4 @@
-Here is a detailed README for the "Paperboy" project, based on the provided repository files.
 
------
 
 # Paperboy 📰
 
