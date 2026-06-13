@@ -113,14 +113,6 @@ The backend server (`http://localhost:5000`) provides the following endpoints:
   * `GET /api/search-news`: Searches NewsAPI for articles. Requires a query param `?q=...`.
   * `GET /api/generate-news`: Manually triggers the script to fetch new articles and generate polls.
 
-## Authors
-
-  * Ayush Anand
-  * Shivam Yogesh Mishra
-  * Shaurya Bhardwaj
-  * Rishit Balaji
-  * Adabala Sridhar
-  * Murari Kandagatla
 
 ## License
 
